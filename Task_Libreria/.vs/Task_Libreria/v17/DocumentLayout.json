@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|c:\\users\\utente\\desktop\\nuova cartella\\task_libreria\\task_libreria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|solutionrelative:task_libreria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|c:\\users\\utente\\desktop\\nuova cartella\\task_libreria\\task_libreria\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|solutionrelative:task_libreria\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|c:\\users\\utente\\desktop\\nuova cartella\\task_libreria\\task_libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|solutionrelative:task_libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|c:\\users\\utente\\desktop\\nuova cartella\\task_libreria\\task_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|solutionrelative:task_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|c:\\users\\utente\\desktop\\nuova cartella\\task_libreria\\task_libreria\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|solutionrelative:task_libreria\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|c:\\users\\utente\\desktop\\nuova cartella\\task_libreria\\task_libreria\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|solutionrelative:task_libreria\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|c:\\users\\utente\\desktop\\nuova cartella\\task_libreria\\task_libreria\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|solutionrelative:task_libreria\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|c:\\users\\utente\\desktop\\nuova cartella\\task_libreria\\task_libreria\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|solutionrelative:task_libreria\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|c:\\users\\utente\\desktop\\nuova cartella\\task_libreria\\task_libreria\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|solutionrelative:task_libreria\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|c:\\users\\utente\\desktop\\nuova cartella\\task_libreria\\task_libreria\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA5DA0D-A909-409F-872F-4ED0086754AF}|Task_Libreria\\Task_Libreria.csproj|solutionrelative:task_libreria\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Utilities\\Config.cs",
+              "RelativeDocumentMoniker": "Task_Libreria\\Utilities\\Config.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Utilities\\Config.cs",
+              "RelativeToolTip": "Task_Libreria\\Utilities\\Config.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA4wCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:06:53.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrestitoDal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Dal\\PrestitoDal.cs",
+              "RelativeDocumentMoniker": "Task_Libreria\\Dal\\PrestitoDal.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Dal\\PrestitoDal.cs",
+              "RelativeToolTip": "Task_Libreria\\Dal\\PrestitoDal.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:38:09.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UtenteDal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Dal\\UtenteDal.cs",
+              "RelativeDocumentMoniker": "Task_Libreria\\Dal\\UtenteDal.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Dal\\UtenteDal.cs",
+              "RelativeToolTip": "Task_Libreria\\Dal\\UtenteDal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:33:23.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibroDal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Dal\\LibroDal.cs",
+              "RelativeDocumentMoniker": "Task_Libreria\\Dal\\LibroDal.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Dal\\LibroDal.cs",
+              "RelativeToolTip": "Task_Libreria\\Dal\\LibroDal.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswCkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:30:52.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appSettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\appSettings.json",
+              "RelativeDocumentMoniker": "Task_Libreria\\appSettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\appSettings.json",
+              "RelativeToolTip": "Task_Libreria\\appSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T15:27:01.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Idal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Dal\\Idal.cs",
+              "RelativeDocumentMoniker": "Task_Libreria\\Dal\\Idal.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Dal\\Idal.cs",
+              "RelativeToolTip": "Task_Libreria\\Dal\\Idal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:21:48.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Prestito.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Models\\Prestito.cs",
+              "RelativeDocumentMoniker": "Task_Libreria\\Models\\Prestito.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Models\\Prestito.cs",
+              "RelativeToolTip": "Task_Libreria\\Models\\Prestito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:13:00.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "Task_Libreria\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Models\\Utente.cs",
+              "RelativeToolTip": "Task_Libreria\\Models\\Utente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:08:26.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "Task_Libreria\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Models\\Libro.cs",
+              "RelativeToolTip": "Task_Libreria\\Models\\Libro.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:52:31.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Libreria\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Task_Libreria\\Task_Libreria\\Program.cs",
+              "RelativeToolTip": "Task_Libreria\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:49:06.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

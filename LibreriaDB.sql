@@ -1,0 +1,28 @@
+
+USE Task_Libreria
+CREATE TABLE Libro(
+LibroID INT PRIMARY KEY IDENTITY (1,1),
+titolo VARCHAR(100) NOT NULL,
+AnnoPub DATE NOT NULL,
+statoDisp BIT NOT NULL
+);
+
+CREATE TABLE Utente (
+utenteId INT PRIMARY KEY IDENTITY (1,1),
+nome VARCHAR (100) NOT NULL,
+cognome VARCHAR (100) NOT NULL,
+email VARCHAR (100) NOT NULL
+);
+
+
+CREATE TABLE Prestito (
+prestitoId INT PRIMARY KEY IDENTITY (1,1),
+dataInizio DATE NOT NULL,
+dataFine DATE NOT NULL,
+libroRif INT NOT NULL,
+utenteRif INT NOT NULL,
+FOREIGN KEY(libroRif) REFERENCES Libro(LibroID),
+FOREIGN KEY(utenteRif) REFERENCES Utente(utenteId),
+);
+
+
